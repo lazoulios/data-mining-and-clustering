@@ -6,7 +6,7 @@
 ## 👥 Team Members
 * **Georgios Lazaridis**
 * **Nicholas Christoforou**
-* **Andreas Drasaklis**
+* **Andreas Darsaklis**
 
 ---
 
