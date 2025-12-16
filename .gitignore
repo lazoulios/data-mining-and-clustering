@@ -10,3 +10,6 @@
 
 # Ignore virtual environment folder
 /venv/
+
+# Ignore Images folder
+/images/
