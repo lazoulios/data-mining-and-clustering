@@ -13,3 +13,6 @@
 
 # Ignore Images folder
 /images/
+
+# Ignore LaTeX files
+/tex/
